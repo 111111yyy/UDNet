@@ -1,2 +1,2 @@
 # UDNet
-UDNet code
+UDNet code and optimal weights
